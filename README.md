@@ -53,7 +53,7 @@ Aunque los resultados reflejan la dificultad del problema, el proyecto demuestra
 
 ---
 
-## 🚀 Tecnologías usadas
+## Tecnologías usadas
 - Python 3.x  
 - Librerías:  
   - `pandas`, `numpy`  
@@ -64,7 +64,7 @@ Aunque los resultados reflejan la dificultad del problema, el proyecto demuestra
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 financial-returns-prediction/
 │── data/              # datasets
@@ -78,7 +78,7 @@ financial-returns-prediction/
 
 ---
 
-## ⚙️ Instalación
+## Instalación
 ```bash
 git clone https://github.com/AVALLEJOTORRES/financial-returns-prediction.git
 cd financial-returns-prediction
